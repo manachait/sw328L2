@@ -7,6 +7,10 @@
             Apache Cordova Team
         </author>
         <content src="index.html" />
-        <icon src="img/icon.png" platform="android" density="ldpi" />
+		<icon src="icon.png" platform="android" qualifier="ldpi" />
+		<icon src="icon.png" platform="android" qualifier="mdpi" />
+		<icon src="icon.png" platform="android" qualifier="hdpi" />
+		<icon src="icon.png" platform="android" qualifier="xhdpi" />
+		<icon src="icon.png" platform="android" qualifier="xxhdpi" />
         <access origin="*" />
 </widget>
