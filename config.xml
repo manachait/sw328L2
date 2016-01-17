@@ -7,5 +7,6 @@
             Apache Cordova Team
         </author>
         <content src="index.html" />
+        <icon src="img/icon.png" platform="android" density="ldpi" />
         <access origin="*" />
 </widget>
